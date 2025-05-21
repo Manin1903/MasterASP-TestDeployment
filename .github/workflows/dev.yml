@@ -1,4 +1,4 @@
-name: Build, publish and deploy to MonsterASP.NET
+name: DEV
 on:
   push:
     branches: [ "DEV" ]
